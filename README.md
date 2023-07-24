@@ -1,6 +1,6 @@
 ![Logo](admin/lernadapter-ar-v2.png)
 # ioBroker.lernadapter-ar-v2
-
+# Test
 [![NPM version](https://img.shields.io/npm/v/iobroker.lernadapter-ar-v2.svg)](https://www.npmjs.com/package/iobroker.lernadapter-ar-v2)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.lernadapter-ar-v2.svg)](https://www.npmjs.com/package/iobroker.lernadapter-ar-v2)
 ![Number of Installations](https://iobroker.live/badges/lernadapter-ar-v2-installed.svg)
