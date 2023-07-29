@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "lernadapter-ar-v2",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "news": {
+      "0.1.2": {
+        "en": "und noch ein test",
+        "de": "und noch ein test",
+        "ru": "und noch ein тест",
+        "pt": "teste de ein",
+        "nl": "♪ noch ein test",
+        "fr": "und noch ein test",
+        "it": "und noch test",
+        "es": "prueba de noch ein",
+        "pl": "i nie skończenie",
+        "uk": "und noch ein тест",
+        "zh-cn": "过滤试验"
+      },
       "0.1.1": {
         "en": "weiterer Test",
         "de": "sonstige Prüfung",
